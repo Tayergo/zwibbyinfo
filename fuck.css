@@ -1,0 +1,72 @@
+body {
+ font-family: 'Cabin'; font-size: 22px;
+}
+.main {
+	font-family: 'Cabin'; font-size: 22px;
+	background-color: gray;
+}
+.box {
+	height: 3500px;
+	width: 1000px;
+	color: black;
+	background-color: gainsboro;
+	margin: auto;
+	border: 5px solid black;
+	padding: 10px;
+}
+.hi {
+  display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+}
+
+
+.sub {
+	background-color: ghostwhite;
+	margin: auto;
+	height: 2900px;
+	width: 700px;
+	border: 3px solid black;
+	padding: 5px;
+}
+
+
+.yo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 150px;
+	border: 5px solid black;
+	border-radius: 180px;
+	border-color: #c0c0c0;
+}
+
+
+.box h2 {
+	text-align: center;
+}
+
+.box p {
+	text-align: center;
+}
+.wrap {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+.lmao {
+ text-align: center; 
+}
+#statuscafe {
+    padding: .5em;
+    background-color: azure;
+    border: 1px solid midnightblue;
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
